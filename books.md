@@ -4,6 +4,6 @@ title: Books
 permalink: /books/
 ---
 
-## Recommended Reading
+### Recommended Reading
 
 List of book for reading
